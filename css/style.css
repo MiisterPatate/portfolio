@@ -1,0 +1,23 @@
+nav ul a, nav .brand-logo {
+    color: #444 !important;
+}
+
+.intro {
+    padding: 144px 0;
+    background: url('../images/mountain.jpeg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.parallax-container {
+    max-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
+}
+
+.parallax-container .section {
+    width: 100%;
+}
